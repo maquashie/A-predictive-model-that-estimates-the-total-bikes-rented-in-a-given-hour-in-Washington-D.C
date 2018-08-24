@@ -1,0 +1,2 @@
+# A-predictive-model-that-estimates-the-total-bikes-rented-in-a-given-hour-in-Washington-D.C
+In this project, we explore the capabilities of three machine learning algorithms to predict the total number of bikes people rented in a given hour in Washington D. C. USA. Here, the prediction accuracy of the models is determined by their corresponding MSE error. The model with the least MSE becomes the preferred model. the rental data for this  project is available on the   University of California, Irvine's website.
